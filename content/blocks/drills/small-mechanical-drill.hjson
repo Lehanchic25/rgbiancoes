@@ -4,7 +4,7 @@ type: Drill
 size: 1
 tier: 2
 health: 80
-drillTime: 300
+drillTime: 600
 drawMineItem: true
 itemCapacity: 5
 liquidCapacity: 15
